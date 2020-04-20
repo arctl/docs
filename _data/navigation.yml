@@ -41,3 +41,8 @@ docs:
   - title: "Аналитика"
 
   - title: "Администрирование"
+
+  - title: "Интеграция"
+    children:
+      - title: "Контрагенты"
+        url: /docs/integration/diadoc/   
