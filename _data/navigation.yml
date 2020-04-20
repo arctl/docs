@@ -23,8 +23,10 @@ main:
 
 # Инструкции
 docs:
-  - title: "Бастрый старт"
-    url: /docs/quick-start/
+  - title: "Кейсы"
+    children:
+      - title: "Бастрый старт"
+        url: /docs/quick-start/
 
   - title: "CRM"
     children:
