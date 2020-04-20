@@ -33,3 +33,5 @@ docs:
         url: /docs/crm/crm_agent
       - title: "Договора"
         url: /docs/crm/crm_contract
+
+  - title: "Администрирование"
