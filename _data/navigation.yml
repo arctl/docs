@@ -1,0 +1,35 @@
+# Главное меню
+main:
+  - title: "Инструкции"
+    url: /docs/guide/
+  - title: "Новости"
+    url: /home/
+  - title: "По годам"
+    url: /year-archive/
+  - title: "По категориям"
+    url: /categories/
+  - title: "По тегам"
+    url: /tags/
+  - title: "Архив страниц"
+    url: /page-archive/
+  - title: "По коллекциям"
+    url: /collection-archive/
+  - title: "Карта сайта"
+    url: /sitemap/
+  - title: "Обо мне"
+    url: /about/
+  - title: "Условия"
+    url: /terms/
+
+
+# Инструкции
+docs:
+  - title: "Бастрый старт"
+    url: /docs/guide/
+
+  - title: "CRM"
+    children:
+      - title: "Контрагенты"
+        url: /docs/crm/crm_agent
+      - title: "Договора"
+        url: /docs/crm/crm_contract
