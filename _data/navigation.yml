@@ -21,7 +21,6 @@ main:
   - title: "Условия"
     url: /terms/
 
-
 # Инструкции
 docs:
   - title: "Бастрый старт"
@@ -44,5 +43,7 @@ docs:
 
   - title: "Интеграция"
     children:
-      - title: "Контрагенты"
-        url: /docs/integration/diadoc/   
+      - title: "Контур.Диадок"
+        url: /docs/integration/diadoc/
+      - title: "1С:Бухгалтерия 3.0"
+        url: /docs/integration/1c_acc3/
