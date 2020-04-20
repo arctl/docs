@@ -24,7 +24,7 @@ main:
 # Инструкции
 docs:
   - title: "Бастрый старт"
-    url: /docs/guide/
+    url: /docs/quick-start/
 
   - title: "CRM"
     children:

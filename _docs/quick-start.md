@@ -1,17 +1,10 @@
 ---
-layout: default
-title: Быстрый старт
-nav_order: 200
+title: "Быстрый старт"
+permalink: /docs/quick-start/
+toc: true
 ---
 
-# Быстрый старт
-{: .no_toc }
-
-## Порядок действий
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+Порядок действий
 
 ## Получить доступ к системе
 1. Отправить [запрос на подключение](https://arctl.ru/contact-us/?theme=Запрос%20на%20подключение)
