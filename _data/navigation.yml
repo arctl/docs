@@ -25,8 +25,13 @@ main:
 docs:
   - title: "Кейсы"
     children:
-      - title: "Бастрый старт"
+      - title: "Быстрый старт"
         url: /docs/quick-start/
+
+  - title: "Руководство"
+    children:
+      - title: "О системе"
+        url: /docs/guide/sytem
 
   - title: "CRM"
     children:

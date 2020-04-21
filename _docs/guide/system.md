@@ -1,12 +1,9 @@
 ---
-layout: default
-title: Система
-nav_order: 100
-has_children: true
-permalink: /docs/guide
+title: "О системе"
+permalink: /docs/guide/sytem/
+toc: true
 ---
 
-# Система
 Система АРК: Транспортная логистика Online представляет собой веб-приложение,
 доступ к которому осуществляется с использованием Веб-браузера.
 
@@ -17,7 +14,5 @@ permalink: /docs/guide
 - Yandex [последняя версия](https://browser.yandex.ru/).
 
 Рекомендуется использовать **Google Chrome**
-
-{: .no_toc }
 
 - Инструкция пользователя (google docs) [ссылка](https://docs.google.com/document/d/1HFA_BUoj91hiWMuCWXu9Alju049u1F2z6fDVr7pWpKc/edit#heading=h.rh19eeozgxde)
