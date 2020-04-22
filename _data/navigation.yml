@@ -37,7 +37,7 @@ docs:
       - title: "Рабочая таблица"
         url: /docs/guide/grid/
       - title: "Форма редактирования"
-        url: /docs/guide/form/
+        url: /docs/guide/form_edit/
       - title: "Аналитика"
         url: /docs/guide/analytics/
       - title: "Меню пользователя"

@@ -1,6 +1,6 @@
 ---
 title: "Форма редактирования"
-permalink: /docs/guide/form/
+permalink: /docs/guide/form_edit/
 toc: true
 ---
 
