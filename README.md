@@ -15,4 +15,5 @@
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
 - [pages.github](https://pages.github.com/)
 - [atom](https://github.com/atom/atom)
+- [gitHub desktop](https://desktop.github.com/)
 - [linter-remark](https://github.com/wooorm/linter-remark)

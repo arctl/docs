@@ -57,6 +57,9 @@ docs:
   - title: "Аналитика"
 
   - title: "Администрирование"
+    children:
+      - title: "Технические требования"
+        url: /docs/administration/technical_requirements/
 
   - title: "Интеграция"
     children:
