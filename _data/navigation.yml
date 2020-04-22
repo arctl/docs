@@ -32,6 +32,16 @@ docs:
     children:
       - title: "О системе"
         url: /docs/guide/sytem
+      - title: "Рабочее окно"
+        url: /docs/guide/work_window/
+      - title: "Рабочая таблица"
+        url: /docs/guide/grid/
+      - title: "Форма редактирования"
+        url: /docs/guide/form/
+      - title: "Аналитика"
+        url: /docs/guide/analytics/
+      - title: "Меню пользователя"
+        url: /docs/guide/user_menu/
 
   - title: "CRM"
     children:

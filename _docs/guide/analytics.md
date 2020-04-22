@@ -1,13 +1,10 @@
 ---
-layout: default
-title: Аналитика
-parent: Система
-nav_order: 15
-has_children: false
+title: "Аналитика"
+permalink: /docs/guide/analytics/
+toc: true
 ---
 
 # Аналитика
-{: .no_toc }
 
 Для того, чтобы перейти в раздел Информационные панели, необохидо нажать на вкладку в шапке "Аналитика"
 
@@ -18,7 +15,6 @@ has_children: false
 ![](../../images/analyt1.png)
 
 Нажав на любое название вам могут открыться диограммы, справочники (оплаты и т.д.). Примеры ниже
-
 
 ![](../../images/analyt2.png)
                                                   (рис.1)

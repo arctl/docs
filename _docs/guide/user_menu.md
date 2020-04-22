@@ -1,12 +1,10 @@
 ---
-layout: default
-title: Меню пользователя
-parent: Система
-nav_order: 3
-has_children: false
+title: "Меню пользователя"
+permalink: /docs/guide/user_menu/
+toc: true
 ---
+
 # Меню пользователя
-{: .no_toc }
 
 После входа в систему вам будут доступно меню пользователя системы (Рисунок ниже).
 

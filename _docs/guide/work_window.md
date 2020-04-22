@@ -1,23 +1,12 @@
 ---
-layout: default
-title: Рабочее окно
-parent: Система
-nav_order: 5
-has_children: false
+title: "Рабочее окно"
+permalink: /docs/guide/work_window/
+toc: true
 ---
-
-# Рабочее окно
-{: .no_toc }
 
 Основное `Рабочее окно` системы представлено на Рисунке ниже
 
 ![](../images/arctl_work_window.png)
-
-## Состав окна
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ## Вкладки
 Журналы (таблицы) с данными:
