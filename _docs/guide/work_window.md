@@ -6,7 +6,7 @@ toc: true
 
 Основное `Рабочее окно` системы представлено на Рисунке ниже
 
-![](../images/arctl_work_window.png)
+![](../../images/arctl_work_window.png)
 
 ## Вкладки
 Журналы (таблицы) с данными:
@@ -15,7 +15,7 @@ toc: true
 
 открываются во вкладках внутри рабочего окна системы (рисунок ниже).
 
-![](../images/arctl_work_window_tab.png)
+![](../../images/arctl_work_window_tab.png)
 
 Для закрытия вкладки справочника, таблицы с данными необходимо нажать на кнопку,
 находящуюся справа от наименования вкладки.
@@ -23,40 +23,40 @@ toc: true
 ## Активна вкладка
 Содержит данные и основные инструменты управления и навигации.
 
-![](../images/arctl_work_window_tab_activ.png)
+![](../../images/arctl_work_window_tab_activ.png)
 
 ### Рабочая таблица
 Под названием вкладки размещается рабочая таблица (грид)
 Она содержит данные выбранного журнала (справочника или документа).
 
-![](../images/arctl_work_window_grid.png)
+![](../../images/arctl_work_window_grid.png)
 
 ### Панель инструментов
 Панель инструментов управляет рабочей таблицей.
 Она содержит [основные команды](/grid_tools/tools.md) доступные для применения к таблице.
 
-![](../images/arctl_work_window_panel.png)
+![](../../images/arctl_work_window_panel.png)
 
 ### Столбцы
 Столбцы журнала.
 
-![](../images/arctl_work_window_columns.png)
+![](../../images/arctl_work_window_columns.png)
 
 ### Текущая строка
 Текущая строка журнала отмечается индикатором
-![](../images/grid_tools/rowindicator.png) и фоновым цветом строки.
+![](../../images/grid_tools/rowindicator.png) и фоновым цветом строки.
 
-![](../images/arctl_work_window_current_record.png)
+![](../../images/arctl_work_window_current_record.png)
 
 ### Редактирование в ячейке
 Если у ячейки строки левый верхний угол окрашен зеленым цветом
-![](../images/grid_tools/cell_editable.png),
+![](../../images/grid_tools/cell_editable.png),
 то данные могут быть изменены непосредственно в ней.
 
-![](../images/arctl_work_window_cell_edit.png).
+![](../../images/arctl_work_window_cell_edit.png).
 
 ### Строка навигации
 Под рабочей таблицей расположена строка навигации.
 Она содержит информацию о просматриваемой странице.
 
-![](../images/arctl_work_window_nav.png)
+![](../../images/arctl_work_window_nav.png)
