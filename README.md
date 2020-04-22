@@ -16,4 +16,5 @@
 - [pages.github](https://pages.github.com/)
 - [atom](https://github.com/atom/atom)
 - [gitHub desktop](https://desktop.github.com/)
-- [linter-remark](https://github.com/wooorm/linter-remark)
+- [linter-markdown](https://atom.io/packages/linter-markdown)
+- [linter-remark](https://atom.io/packages/linter-remark)
