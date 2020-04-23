@@ -3,7 +3,7 @@ title: "Версия: 1.697.26"
 date: 2020-04-23
 toc: true
 categories:
-  - Версия
+  - Post
 tags:
   - Акт сверки
   - Перевозка
