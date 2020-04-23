@@ -3,7 +3,7 @@ title: "Версия: 1.689.51"
 date: 2020-04-13
 toc: true
 categories:
-  - Версия
+  - Post
 tags:
   - Аналитика
   - ДЦ

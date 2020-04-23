@@ -3,7 +3,7 @@ title: "Версия: 1.687.3"
 date: 2020-04-02
 toc: true
 categories:
-  - Версия
+  - Post
 tags:
   - Договор
   - Диадок
