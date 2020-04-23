@@ -3,7 +3,7 @@ title: "Версия: 1.697.16"
 date: 2020-04-22
 toc: true
 categories:
-  - Post
+  - Версия
 tags:
   - Диадок
   - Депо
