@@ -14,14 +14,13 @@ toc: true
 
 Примеры вариантов аналитических отчетов ниже:
 
-![](../../images/analyt2.png)
 Отчет с параметрами
+![](../../images/analyt2.png)
 
-![](../../images/analyt3.png)
 Отчет с взаимозависимыми таблицами
+![](../../images/analyt3.png)
 
 ![](../../images/analyt4.png)
-Отчет с взаимозависимыми таблицами
 
-![](../../images/analyt5.png)
 Отчет с диаграммами
+![](../../images/analyt5.png)
