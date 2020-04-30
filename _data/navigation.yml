@@ -47,7 +47,7 @@ docs:
     children:
       - title: "Контрагенты"
         url: /docs/crm/crm_agent
-      - title: "Договора"
+      - title: "Договоры"
         url: /docs/crm/crm_contract
 
   - title: "Клиенты"
