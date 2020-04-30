@@ -1,6 +1,6 @@
 # Главное меню
 main:
-  - title: "Инструкции"
+  - title: "Справка"
     url: /docs/guide/
   - title: "Новости"
     url: /
