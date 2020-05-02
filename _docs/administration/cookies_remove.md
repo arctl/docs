@@ -1,5 +1,5 @@
 ---
-title: "Удаление Cookie"
+title: "Удаление Cookies"
 permalink: /docs/administration/cookies_remove/
 toc: true
 ---
