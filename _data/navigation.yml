@@ -60,8 +60,8 @@ docs:
     children:
       - title: "Технические требования"
         url: /docs/administration/technical_requirements/
-      - title: "Удаление Cooke"
-        permalink: /docs/administration/cooke_remov/
+      - title: "Удаление Cookies"
+        url: /docs/administration/cookies_remove/
 
   - title: "Интеграция"
     children:
