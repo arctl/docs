@@ -4,11 +4,11 @@
 
 ### Контакты и поддержка
 
-Если Вам что-то не понято или не получается?
+Не все понятно или что-то не получается?
 Прочитайте [документацию](https://arctl.github.io/arctl-docs/)
-или пишите [нам](https://arctl.ru/contact-us/) и мы поможем вам разобраться.
+или пишите [нам](https://arctl.ru/contact-us/) и мы поможем Вам разобраться.
 
-При написании документации использовался:
+При написании документации использованы:
 - [github](https://github.com/)
 - [jekyllrb.com](https://jekyllrb.com/)
 - [mademistakes.com](https://mademistakes.com/)
