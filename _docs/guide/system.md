@@ -1,6 +1,6 @@
 ---
 title: "О системе"
-permalink: /docs/guide/sytem/
+permalink: /docs/guide/system/
 toc: true
 ---
 

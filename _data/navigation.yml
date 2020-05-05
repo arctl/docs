@@ -31,8 +31,8 @@ docs:
   - title: "Руководство"
     children:
       - title: "О системе"
-        url: /docs/guide/sytem
-      - title: "Рабочее окно"
+        url: /docs/guide/system
+      - title: "Рабочая область"
         url: /docs/guide/work_window/
       - title: "Рабочая таблица"
         url: /docs/guide/grid/
