@@ -14,8 +14,6 @@ toc: true
 
 Рекомендуется использовать **Google Chrome**.
 
--   Инструкция пользователя (google docs) [ссылка](https://docs.google.com/document/d/1HFA_BUoj91hiWMuCWXu9Alju049u1F2z6fDVr7pWpKc/edit#heading=h.rh19eeozgxde)
-
 ## Вход
 ### Страница входа
 Для начала работы в системе запустите веб-браузер или откройте новую вкладку.
