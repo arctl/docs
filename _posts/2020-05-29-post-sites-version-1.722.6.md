@@ -1,5 +1,5 @@
 ---
-title: "Версия: 1.722.3"
+title: "Версия: 1.722.6"
 date: 2020-05-29
 toc: true
 categories:
