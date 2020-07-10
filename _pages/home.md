@@ -33,30 +33,6 @@ feature_row:
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
-feature_row2:    
-- image_path: /assets/images/mm-customizable-feature.png
-  alt: "customizable1"
-  title: "ВСЕ КОМПАНИИ В ОДНОЙ СИСТЕМЕ"
-  excerpt: "Оформляйте перевозочные и бухгалтерские документы от лица любого из ваших юридических лиц."
-  url: "/docs/license/"
-  btn_class: "btn--primary"
-  btn_label: "Learn more"
-- image_path: /assets/images/mm-responsive-feature.png
-  alt: "customizable2"
-  title: "БАЗА ВАШИХ КОНТРАГЕНТОВ"
-  excerpt: "Храните полную информацию о клиентах, поставщиках, грузовладельцах, складах, собственниках, экспедиторах."
-  url: "/docs/license/"
-  btn_class: "btn--primary"
-  btn_label: "Learn more"
-- image_path: /assets/images/mm-free-feature.png
-  alt: "customizable3"
-  title: "МУЛЬТИВАЛЮТНЫЙ УЧЕТ"
-  excerpt: "Ведите расчеты за перевозки в любой валюте."
-  url: "/docs/license/"
-  btn_class: "btn--primary"
-  btn_label: "Learn more"
 ---
 
 {% include feature_row %}
-
-{% include feature_row2 %}
