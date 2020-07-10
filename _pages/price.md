@@ -1,4 +1,6 @@
 ---
+title: "Тарифы"
+permalink: /price/
 layout: splash
 classes:
   - landing
