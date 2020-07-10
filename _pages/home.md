@@ -33,7 +33,7 @@ feature_row:
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
-system_row:    
+feature_row2:    
 - image_path: /assets/images/mm-customizable-feature.png
   alt: "customizable1"
   title: "ВСЕ КОМПАНИИ В ОДНОЙ СИСТЕМЕ"
@@ -59,6 +59,4 @@ system_row:
 
 {% include feature_row %}
 
-# Что есть в системе
-
-{% include system_row %}
+{% include feature_row2 %}
