@@ -3,7 +3,7 @@ title: "Версия: 1.703.22"
 date: 2020-05-12
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Входящие документы
   - Дельта

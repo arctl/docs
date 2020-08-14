@@ -3,7 +3,7 @@ title: "Версия: 1.736.20"
 date: 2020-07-13
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Счета-фактуры
   - ДЦ

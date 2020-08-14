@@ -3,7 +3,7 @@ title: "Версия: 1.698.13"
 date: 2020-04-30
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Заявка
   - Перевозка

@@ -3,7 +3,7 @@ title: "Версия: 1.685.3 и ранее"
 date: 2020-03-25
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Аналитика
   - ДЦ

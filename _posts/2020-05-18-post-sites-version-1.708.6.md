@@ -3,7 +3,7 @@ title: "Версия: 1.708.6"
 date: 2020-05-18
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Входящие документы
   - Контакт

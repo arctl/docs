@@ -3,7 +3,7 @@ title: "Версия: 1.703.6"
 date: 2020-05-08
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Входящие документы
   - Перевозка

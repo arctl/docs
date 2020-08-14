@@ -3,7 +3,7 @@ title: "Версия: 1.726.36"
 date: 2020-06-11
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Аналитика
   - Финотчет

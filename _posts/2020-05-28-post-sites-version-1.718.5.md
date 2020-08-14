@@ -3,7 +3,7 @@ title: "Версия: 1.718.5"
 date: 2020-05-28
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Депо
   - Оптимизация

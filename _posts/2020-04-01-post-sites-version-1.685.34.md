@@ -3,7 +3,7 @@ title: "Версия: 1.685.34"
 date: 2020-04-01
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Аналитика
   - ДЦ

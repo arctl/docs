@@ -3,7 +3,7 @@ title: "Версия: 1.727.5"
 date: 2020-06-17
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Оптимизация
 ---

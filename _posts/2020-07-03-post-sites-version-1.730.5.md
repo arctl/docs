@@ -3,7 +3,7 @@ title: "Версия: 1.730.5"
 date: 2020-07-03
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Заявка
   - Отчет по перевозке

@@ -3,7 +3,7 @@ title: "Версия: 1.726.7"
 date: 2020-06-08
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Заявка
   - Личный кабинет

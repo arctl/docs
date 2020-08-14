@@ -3,7 +3,7 @@ title: "Версия: 1.738.3"
 date: 2020-07-23
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Оптимизация
   - Документ поставщика

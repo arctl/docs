@@ -3,7 +3,7 @@ title: "Версия: 1.740.11"
 date: 2020-07-27
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - ФинОтчет
 

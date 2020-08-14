@@ -3,7 +3,7 @@ title: "Версия: 1.729.10"
 date: 2020-06-30
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Диадок
   - Финотчет

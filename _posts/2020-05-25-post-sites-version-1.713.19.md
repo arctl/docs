@@ -3,7 +3,7 @@ title: "Версия: 1.713.19"
 date: 2020-05-25
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Депо
   - Документ поставщика

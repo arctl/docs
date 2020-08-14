@@ -3,7 +3,7 @@ title: "Версия: 1.737.15"
 date: 2020-07-16
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Оптимизация
   - Документ поставщика

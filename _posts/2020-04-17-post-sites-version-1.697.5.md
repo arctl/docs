@@ -3,7 +3,7 @@ title: "Версия: 1.697.5"
 date: 2020-04-17
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Диадок
   - Депо

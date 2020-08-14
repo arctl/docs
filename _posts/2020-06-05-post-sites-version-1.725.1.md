@@ -3,7 +3,7 @@ title: "Версия: 1.725.1"
 date: 2020-06-05
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Оптимизация
   - Перевозка

@@ -3,7 +3,7 @@ title: "Версия: 1.737.7"
 date: 2020-07-14
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Аналитика
   - Акт сверки

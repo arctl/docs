@@ -3,7 +3,7 @@ title: "Версия: 1.707.7"
 date: 2020-05-15
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Входящие документы
   - Дельта

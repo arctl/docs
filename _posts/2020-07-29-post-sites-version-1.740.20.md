@@ -3,7 +3,7 @@ title: "Версия: 1.740.20"
 date: 2020-07-29
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Клиенты
   - Документ поставщика

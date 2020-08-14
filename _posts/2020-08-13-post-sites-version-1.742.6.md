@@ -3,7 +3,7 @@ title: "Версия: 1.742.6"
 date: 2020-08-13
 toc: true
 categories:
-  - Версия
+  - version
 tags:
   - Оптимизация
   - Аналитика
