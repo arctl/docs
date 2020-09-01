@@ -60,6 +60,8 @@ docs:
     children:
       - title: "ФинОтчет. Контроль. Клиенту"
         url: /docs/analytics/fin_report_chek_cust
+      - title: "ФинОтчет. Контроль. Расходы"
+        url: /docs/analytics/fin_report_chek_supp
 
   - title: "Администрирование"
     children:
