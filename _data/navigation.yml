@@ -28,22 +28,22 @@ docs:
   - title: "Кейсы"
     children:
       - title: "Быстрый старт"
-        url: /docs/quick-start/
+        url: /docs/quick-start
 
   - title: "Руководство"
     children:
       - title: "О системе"
         url: /docs/guide/system
       - title: "Рабочая область"
-        url: /docs/guide/work_window/
+        url: /docs/guide/work_window
       - title: "Рабочая таблица"
-        url: /docs/guide/grid/
+        url: /docs/guide/grid
       - title: "Форма редактирования"
-        url: /docs/guide/form_edit/
+        url: /docs/guide/form_edit
       - title: "Аналитика"
-        url: /docs/guide/analytics/
+        url: /docs/guide/analytics
       - title: "Меню пользователя"
-        url: /docs/guide/user_menu/
+        url: /docs/guide/user_menu
 
   - title: "CRM"
     children:
@@ -64,13 +64,13 @@ docs:
   - title: "Администрирование"
     children:
       - title: "Технические требования"
-        url: /docs/administration/technical_requirements/
+        url: /docs/administration/technical_requirements
       - title: "Удаление Cookies"
-        url: /docs/administration/cookies_remove/
+        url: /docs/administration/cookies_remove
 
   - title: "Интеграция"
     children:
       - title: "Контур.Диадок"
-        url: /docs/integration/diadoc/
+        url: /docs/integration/diadoc
       - title: "1С:Бухгалтерия 3.0"
-        url: /docs/integration/1c-acc3/
+        url: /docs/integration/1c-acc3
