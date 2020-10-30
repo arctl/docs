@@ -56,6 +56,13 @@ docs:
 
   - title: "Поставщики"
 
+  - title: "Диспетчирование"
+    children:
+      - title: "Настройка ДЦ"
+        url: /docs/disp/setting
+      - title: "Добавление строк в ДЦ"
+        url: /docs/disp/add
+
   - title: "Аналитика"
     children:
       - title: "ФинОтчет. Контроль. Клиенту"
