@@ -1,6 +1,6 @@
 ---
 title: "Технические требования"
-permalink: /docs/administration/technical_requirements/
+permalink: /docs/administration/technical_requirements
 toc: true
 ---
 

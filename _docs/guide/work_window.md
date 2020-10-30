@@ -1,6 +1,6 @@
 ---
 title: "Рабочая область"
-permalink: /docs/guide/work_window/
+permalink: /docs/guide/work_window
 toc: true
 ---
 

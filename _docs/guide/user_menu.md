@@ -1,6 +1,6 @@
 ---
 title: "Меню пользователя"
-permalink: /docs/guide/user_menu/
+permalink: /docs/guide/user_menu
 toc: true
 ---
 
