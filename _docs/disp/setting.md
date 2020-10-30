@@ -1,6 +1,6 @@
 ---
 title: "Настройка ДЦ"
-permalink: /docs/disp/setting
+permalink: /docs/disp/setting/
 toc: true
 ---
 

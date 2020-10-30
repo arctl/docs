@@ -1,6 +1,6 @@
 ---
 title: "Добавление строк в ДЦ"
-permalink: /docs/disp/add
+permalink: /docs/disp/add/
 toc: true
 ---
 

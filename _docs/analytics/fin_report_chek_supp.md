@@ -1,6 +1,6 @@
 ---
 title: "ФинОтчет. Контроль. Расходы"
-permalink: /docs/analytics/fin_report_chek_supp
+permalink: /docs/analytics/fin_report_chek_supp/
 toc: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Рабочая таблица"
-permalink: /docs/guide/grid
+permalink: /docs/guide/grid/
 toc: true
 ---
 

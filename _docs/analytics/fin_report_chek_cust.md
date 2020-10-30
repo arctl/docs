@@ -1,6 +1,6 @@
 ---
 title: "ФинОтчет. Контроль. Клиенту"
-permalink: /docs/analytics/fin_report_chek_cust
+permalink: /docs/analytics/fin_report_chek_cust/
 toc: false
 ---
 

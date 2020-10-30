@@ -1,6 +1,6 @@
 ---
 title: "Аналитика"
-permalink: /docs/guide/analytics
+permalink: /docs/guide/analytics/
 toc: true
 ---
 
