@@ -53,9 +53,9 @@ docs:
         url: /docs/crm/crm_contract/
 
   - title: "Клиенты"
-      children:
-        - title: "Реестры НДС 0%"
-          url: /docs/customers/reestrVAT0/
+    children:
+      - title: "Реестры НДС 0%"
+        url: /docs/customers/reestrVAT0/
 
   - title: "Поставщики"
 
