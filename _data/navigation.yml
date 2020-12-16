@@ -75,7 +75,7 @@ docs:
 
   - title: "Администрирование"
     children:
-      - title: "Правило только свои"
+      - title: "Правило 'Только свои'"
         url: /docs/administration/rules_their/
       - title: "Технические требования"
         url: /docs/administration/technical_requirements/
