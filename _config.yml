@@ -95,7 +95,7 @@ author:
     - label: "facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://web.facebook.com/arctlonline"
-    - label: "telegramm"
+    - label: "telegram"
       icon: "fab fa-telegram"
       url: "https://t.me/arctl"
     - label: "Демо версия"
