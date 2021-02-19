@@ -1,6 +1,6 @@
 ---
-title: "Версия: 1.768.9"
-date: 2021-02-18
+title: "Версия: 1.768.11"
+date: 2021-02-19
 toc: true
 categories:
   - version
