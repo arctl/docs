@@ -63,8 +63,10 @@ docs:
     children:
       - title: "Настройка ДЦ"
         url: /docs/disp/setting/
-      - title: "Добавление строк в ДЦ"
+      - title: "Добавление перевозок в ДЦ"
         url: /docs/disp/add/
+      - title: "Состояние станции"
+        url: /docs/disp/station/
 
   - title: "Аналитика"
     children:
