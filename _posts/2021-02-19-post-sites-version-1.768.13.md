@@ -1,5 +1,5 @@
 ---
-title: "Версия: 1.768.11"
+title: "Версия: 1.768.13"
 date: 2021-02-19
 toc: true
 categories:
