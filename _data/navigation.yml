@@ -56,6 +56,8 @@ docs:
     children:
       - title: "Реестры НДС 0%"
         url: /docs/customers/reestrVAT0/
+      - title: "Настройка сохранения заявки в Word"
+        url: /docs/order/order_setting_word/
 
   - title: "Поставщики"
 
@@ -67,6 +69,8 @@ docs:
         url: /docs/disp/add/
       - title: "Состояние станции"
         url: /docs/disp/station/
+      - title: "Настройка печати ТН"
+        url: /docs/disp/setting_print_tn/
 
   - title: "Аналитика"
     children:
