@@ -56,7 +56,7 @@ docs:
     children:
       - title: "Реестры НДС 0%"
         url: /docs/customers/reestrVAT0/
-      - title: "Настройка сохранения заявки в Word"
+      - title: "сохранение заявки в Word"
         url: /docs/order/order_setting_word/
 
   - title: "Поставщики"

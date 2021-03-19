@@ -1,5 +1,5 @@
 ---
-title: "Настройка сохранения заявки в Word"
+title: "Сохранения заявки в Word"
 permalink: /docs/order/order_setting_word/
 toc: true
 ---
@@ -9,7 +9,7 @@ toc: true
 - Организации
 - Типа заявки (шаблон заявки)
 
-## Настройка сохранения в word
+## Настройка сохранения заявки в word
 
 Настройка выполняется в менеджере шаблонов.
 
@@ -53,4 +53,4 @@ toc: true
 
 ## Описание ключевых значений
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSM2HcwfqKutHEjrsatZfeqJqaGVHo1Jc8ZtunlshJOX1Y0r7-xL2ngOK05RAAM-BfFW1CHQ3oafDAF/pub?embedded=true"></iframe>
+<iframe width="800" height="600" src="https://docs.google.com/document/d/e/2PACX-1vSM2HcwfqKutHEjrsatZfeqJqaGVHo1Jc8ZtunlshJOX1Y0r7-xL2ngOK05RAAM-BfFW1CHQ3oafDAF/pub?embedded=true"></iframe>
