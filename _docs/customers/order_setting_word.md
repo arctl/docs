@@ -1,6 +1,6 @@
 ---
 title: "Сохранение заявки в Word"
-permalink: /docs/order/order_setting_word/
+permalink: /docs/customers/order_setting_word/
 toc: true
 ---
 
