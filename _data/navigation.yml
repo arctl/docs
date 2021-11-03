@@ -85,6 +85,10 @@ docs:
 
   - title: "Администрирование"
     children:
+      - title: "Создание пользователя"
+        url: docs/administration/Add_Modify_User/
+      - title: "Групповые роли пользователя"
+        url: docs/administration/Adding_changing_user_roles/
       - title: "Правило 'Только свои'"
         url: /docs/administration/rules_their/
       - title: "Технические требования"
