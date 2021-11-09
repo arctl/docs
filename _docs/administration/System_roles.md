@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Роли в системе
-parent: Администратирование
+parent: Администрирование
 nav_order: 4
 ---
 

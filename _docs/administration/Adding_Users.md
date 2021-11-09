@@ -2,7 +2,7 @@
 layout: default
 title: Шаг 4 - Добавление пользователей
 parent: Начало работы в системе
-grand_parent: Администратирование
+grand_parent: Администрирование
 nav_order: 4
 ---
 

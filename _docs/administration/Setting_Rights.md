@@ -2,7 +2,7 @@
 layout: default
 title: Шаг 5 - Настройка прав на уровне объектов
 parent: Начало работы в системе
-grand_parent: Администратирование
+grand_parent: Администрирование
 nav_order: 5
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Шаг 7 - Настройка нашей компании
 parent: Начало работы в системе
-grand_parent: Администратирование
+grand_parent: Администрирование
 nav_order: 7
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Личные кабинеты
-parent: Администратирование
+parent: Администрирование
 nav_order: 2
 has_children: true
 ---

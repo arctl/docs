@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TFA
-parent: Администратирование
+parent: Администрирование
 nav_order: 16
 ---
 

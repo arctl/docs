@@ -2,7 +2,7 @@
 layout: default
 title: Создание личного кабинета
 parent: Личные кабинеты
-grand_parent: Администратирование
+grand_parent: Администрирование
 nav_order: 1
 ---
 
