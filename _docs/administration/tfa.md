@@ -1,5 +1,6 @@
 ---
-title: Общая информация 
+permalink: /docs/administration/tfa/
+title: Общая информация
 parent: Администрирование
 nav_order: 16
 ---
