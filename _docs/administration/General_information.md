@@ -2,6 +2,7 @@
 title: Общая информация
 parent: Администрирование
 nav_order: 16
+toc: true
 ---
 
 
