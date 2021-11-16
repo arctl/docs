@@ -85,6 +85,8 @@ docs:
 
   - title: "Администрирование"
     children:
+      -title: "Общая  информация"
+       url: docs/administration/tfa.md
       - title: "Создание пользователя"
         url: docs/administration/Add_Modify_User/
       - title: "Групповые роли пользователя"
