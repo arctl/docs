@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Перевыставление услуг"
+permalink: /docs/administration/re-presentation/
 parent: Администрирование
 ---
 #Подготовка системы
