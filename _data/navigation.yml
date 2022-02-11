@@ -106,3 +106,5 @@ docs:
         url: /docs/integration/1c-acc3/
       - title: " - Выгрузка"
         url: /docs/integration/1c-acc3/unload/
+      - title: "Телеграм"
+        url: /docs/integration/telegram/
