@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Как узнать ID группы в Telegram
+permalink: /docs/integration/telegram/
 toc: true
 ---
 
