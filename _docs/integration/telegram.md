@@ -1,13 +1,12 @@
 ---
 layout: default
 title: Как узнать ID группы в Telegram
-parent: ИНТЕГРАЦИЯ
-nav_order: 5
+toc: true
 ---
 
 
 #Как узнать ID группы в Telegram
-{: .no_toc }
+
 
 1: Ищем @m4n_idbot через поисковую строку Telegram
 
