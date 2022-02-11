@@ -4,10 +4,6 @@ permalink: /docs/integration/telegram/
 toc: true
 ---
 
-
-#Как узнать ID группы в Telegram
-
-
 1: Ищем @m4n_idbot через поисковую строку Telegram
 
 2: Запускаем бот нажатием кнопки «Запустить»
