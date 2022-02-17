@@ -1,5 +1,5 @@
 ---
-title: Как узнать ID группы в Telegram
+title: Как узнать ID чата/группы в Telegram
 permalink: /docs/integration/telegram/
 toc: true
 ---
