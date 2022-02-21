@@ -4,7 +4,7 @@ permalink: /docs/integration/telegram/
 toc: true
 ---
 
-1: Ищем @arctl.online через поисковую строку Telegram
+1: Ищем @arctl.online через поисковую строку Telegram, либо перейти по ссылке https://t.me/arctlonline_bot
 
 2: Запускаем бот нажатием кнопки «Запустить»
 
