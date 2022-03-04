@@ -1,6 +1,6 @@
 ---
 title: "В разработке для ближайшей версии"
-date: 2022-12-31
+date: 9999-12-31
 toc: true
 categories:
   - Post  
