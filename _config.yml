@@ -19,6 +19,7 @@ logo                     : "assets/images/site-logo-arc-32-32.png" # path of log
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+future                   : true
 comments:
   provider               : "false" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "custom"
   disqus:
@@ -194,9 +195,8 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
-      future: true
   # _pages
   - scope:
       path: "_pages"
