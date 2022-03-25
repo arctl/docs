@@ -93,9 +93,6 @@ author:
   bio              : # ""
   location         : "Россия, Екатеринбург"
   links:
-    - label: "facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://web.facebook.com/arctlonline"
     - label: "telegram"
       icon: "fab fa-telegram"
       url: "https://t.me/arctl"
@@ -108,19 +105,22 @@ author:
     - label: "Запрос на подключение"
       icon: "fas fa-edit"
       url: "https://arctl.ru/contact-us/?theme=Запрос%20на%20подключение"
+#    - label: "facebook"
+#      icon: "fab fa-fw fa-facebook"
+#      url: "https://web.facebook.com/arctlonline"
 
 # Site Footer
 footer:
   links:
-    - label: "facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://web.facebook.com/arctlonline"
     - label: "telegramm"
       icon: "fab fa-telegram"
       url: "https://t.me/arctl"
     - label: "GitHub repository"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/arctl/docs/"
+#    - label: "facebook"
+#      icon: "fab fa-fw fa-facebook"
+#      url: "https://web.facebook.com/arctlonline"
 
 # Reading Files
 include:
