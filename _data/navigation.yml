@@ -71,9 +71,9 @@ docs:
         url: /docs/disp/setting/
       - title: "Добавление перевозок в ДЦ"
         url: /docs/disp/add/
-      - title: "Состояние станции"
+      - title: "ДЦ (жд). Состояние станции"
         url: /docs/disp/station/
-      - title: "Автоперевозки"
+      - title: "ДЦ (авто). Автоперевозки"
         url: /docs/disp/dc_auto/
       - title: "Настройка печати ТН"
         url: /docs/disp/setting_print_tn/
