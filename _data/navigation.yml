@@ -73,8 +73,12 @@ docs:
         url: /docs/disp/add/
       - title: "Состояние станции"
         url: /docs/disp/station/
+      - title: "Автоперевозки"
+        url: /docs/disp/dc_auto/
       - title: "Настройка печати ТН"
         url: /docs/disp/setting_print_tn/
+      - title: "ЭТП 'Грузовые перевозки'"
+        url: /docs/disp/ETPGP/
 
   - title: "Аналитика"
     children:
