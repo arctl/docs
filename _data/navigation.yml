@@ -108,6 +108,8 @@ docs:
         url: /docs/integration/diadoc/
       - title: "1С:Бухгалтерия 3.0"
         url: /docs/integration/1c-acc3/
+      - title: " - Загрузка"
+        url: /docs/integration/1c-acc3/load/
       - title: " - Выгрузка"
         url: /docs/integration/1c-acc3/unload/
       - title: "Телеграм"
