@@ -1,6 +1,6 @@
 ---
 title: "ЭТП 'Грузовые перевозки'"
-permalink: /docs/disp/ETPG/
+permalink: /docs/disp/ETPGP/
 toc: true
 ---
 
