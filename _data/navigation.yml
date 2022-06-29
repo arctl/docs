@@ -16,8 +16,8 @@ main:
     url: /collection-archive/
   - title: "Карта сайта"
     url: /sitemap/
-  - title: "Статистика работы в системе"
-    url: /stat/
+  #- title: "Статистика работы в системе"
+  #  url: /stat/
   - title: "О компании"
     url: /about/
   - title: "Условия"
