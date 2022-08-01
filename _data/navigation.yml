@@ -60,7 +60,7 @@ docs:
         url: /docs/customers/order_setting_word/
       - title: "Изменение суммы счета"
         url: /docs/customers/bill_amount_change/
-      - title: "Спец. поставщик"
+      - title: "Спецпоставщик"
         url: /docs/customers/spec_supplier/
 
   - title: "Поставщики"
