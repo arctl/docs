@@ -1,6 +1,6 @@
 ---
 title: "Спецпоставщик"
-permalink: /docs/customers/spec_supplier/
+permalink: /docs/suppliers/spec_supplier/
 toc: true
 ---
 
