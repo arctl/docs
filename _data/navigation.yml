@@ -62,6 +62,7 @@ docs:
         url: /docs/customers/bill_amount_change/
 
   - title: "Поставщики"
+    children:
       - title: "Спецпоставщик"
         url: /docs/suppliers/spec_supplier/
 
