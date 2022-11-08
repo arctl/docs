@@ -83,9 +83,9 @@ docs:
 
   - title: "Депо"
     children:
-       -title: "Добавление сотрудника в депо"
+      - title: "Добавление сотрудника в депо"
         url: docs/depo/Adding_users_depo/
-       -title: "Добавление и просмотр фотографий"
+      - title: "Добавление и просмотр фотографий"
         url: docs/depo/photo/
 
   - title: "Аналитика"
