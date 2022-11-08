@@ -83,10 +83,8 @@ docs:
 
   - title: "Депо"
     children:
-      - title: "Добавление сотрудника в депо"
-        url: docs/depo/Adding_users_depo/
-      - title: "Добавление и просмотр фотографий"
-        url: docs/depo/photo/
+      - title: "Работа с фото"
+        url: /docs/depo/Depo_Attach_Photo/
 
   - title: "Аналитика"
     children:

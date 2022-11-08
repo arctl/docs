@@ -1,7 +1,6 @@
 ---
 title: Работа с фото
-parent: Депо
-nav_order: 16
+permalink: /docs/depo/Depo_Attach_Photo/
 toc: true
 ---
 
