@@ -105,6 +105,11 @@ docs:
       - title: "Удаление Cookies"
         url: /docs/administration/cookies_remove/
 
+  - title: "Депо"
+    children:
+      -title: "Добавление сотрудника в депо"
+       url: docs/depo/Adding_users_depo/
+
   - title: "Интеграция"
     children:
       - title: "Контур.Диадок"
