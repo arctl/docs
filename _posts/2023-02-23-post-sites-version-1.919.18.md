@@ -1,6 +1,6 @@
 ---
-title: "Версия: 1.919.15"
-date: 2023-02-21
+title: "Версия: 1.919.18"
+date: 2023-02-23
 toc: true
 categories:
   - version
