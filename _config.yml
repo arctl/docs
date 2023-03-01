@@ -104,7 +104,7 @@ author:
       url: "https://arctl.ru/price"
     - label: "Запрос на подключение"
       icon: "fas fa-edit"
-      url: "https://arctl.ru/contact-us/?theme=Запрос%20на%20подключение"
+      url: "https://arctl.ru/order/"
 #    - label: "facebook"
 #      icon: "fab fa-fw fa-facebook"
 #      url: "https://web.facebook.com/arctlonline"
