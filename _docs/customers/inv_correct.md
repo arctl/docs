@@ -1,5 +1,5 @@
 ---
-title: "Создание корректировочного счета-фактуры"
+title: "Корректировочный счета-фактура"
 permalink: /docs/customers/inv_correct/
 toc: true
 ---
