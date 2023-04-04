@@ -4,7 +4,7 @@ permalink: /docs/administration/technical_requirements/
 toc: true
 ---
 
-| Минимальные | Рекомендованные (> 40 пользователей) |
+| Параметр | Минимальные |
 | --- | --- |
 | Версия ОС | Windows 7, Ubuntu 14.04, macOS 10.13 |
 | Оперативная память   | 4 ГБ |
