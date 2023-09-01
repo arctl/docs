@@ -1,8 +1,9 @@
 ---
-layout: default
 title:	Структура организации
+permalink: /organization/Organization_structure/
 parent: Организация
-nav_order: 3
+nav_order: 1
+toc: true
 ---
 
 # 	Структура организации
