@@ -1,7 +1,7 @@
 # Theme Settings
 #
 # Тема
-#remote_theme             : "mmistakes/minimal-mistakes@4.19.1"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "default",  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
