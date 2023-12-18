@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 {% for post in site.posts limit:3 %}
-{% if post.categories == "version" %}
+{% if post.categories contains 'version' %}
 - {{ post.date | date: "%Y.%m.%d" }}
 {{ post.content }}
 {% endif %}
