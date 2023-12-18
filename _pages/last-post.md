@@ -14,9 +14,3 @@ author_profile: false
 
 
 ### Публикации 2
-
-{% for post in site.posts limit:2 %}
-  
-	{% include post_details.html %}
-
-{% endfor %}
