@@ -5,6 +5,5 @@ permalink: /last-post/
 author_profile: false
 ---
 
-{% for post in site.post %}
-	{% include archive-single.html %}
+{% for post in site.posts %}
 {% endfor %}
