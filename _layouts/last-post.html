@@ -8,6 +8,139 @@
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
+
+<style type="text/css">
+  @font-face {
+      font-family: Segoe;
+      src: local("Segoe UI"),
+           url(https://cdn.octonica.com/email/font2.ttf) format("truetype");
+  }
+
+  body {
+      font-family: "Segoe", "Open Sans", sans-serif, serif;
+      font-size: 0.875rem;
+      line-height: 1.1;
+      font-weight: 400;
+      font-style: normal;
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      color: #404040;
+      background: #f9f9f9;
+  }
+
+  html, body, * { box-sizing: border-box; }
+
+  td {
+      vertical-align: top;
+      text-align: left;
+  }
+
+  a { color: #404040; }
+
+  a:hover { color: #191919; }
+
+  a:visited { color: #421672; }
+
+  td.wel { vertical-align: middle; }
+
+  td.welmsg {
+      vertical-align: middle;
+      padding-left: 20px;
+  }
+
+  .welhead {
+      color: #404040;
+      font-size: 1.7rem;
+      padding-bottom: 20px;
+  }
+
+  .weldescr { font-size: 0.95rem; }
+
+  .panel {
+      display: block;
+      position: relative;
+  }
+
+  .panel > .heading, .panel > .content {
+      display: block;
+      position: relative;
+      color: #404040;
+  }
+
+  .panel > .heading {
+      padding: .625rem 0;
+      color: #ffffff;
+      background-color: #78909C;
+      cursor: default;
+      vertical-align: middle;
+      z-index: 2;
+      height: 2.625rem;
+      box-shadow: -1px 6px 6px -6px rgba(0, 0, 0, 0.35);
+      font: 500 1.125rem/1.1 "Segoe", "Open Sans", sans-serif, serif;
+      -webkit-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+  }
+
+  .panel > .heading > .title { margin-left: .625rem; }
+
+  .panel > .heading > .icon + .title { margin-left: 3.625rem; }
+
+  .panel > .heading > .icon {
+      position: absolute;
+      background-color: #37474F;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      vertical-align: middle;
+      height: 2.625rem;
+      width: 2.625rem;
+      text-align: center;
+      padding: .625rem;
+  }
+
+  .panel > .heading > .oct + .title { margin-left: 9.625rem; }
+
+  .panel > .heading > .oct {
+      position: absolute;
+      background-color: #37474F;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      vertical-align: middle;
+      height: 2.625rem;
+      text-align: center;
+      padding: .625rem;
+  }
+
+  .panel > .content {
+      z-index: 1;
+      font-size: 0.875rem;
+  }
+
+
+  .brick { background-color: #ECEFF1; }
+
+  .prop {
+      max-width: 160px;
+      font-weight: 600;
+      padding-bottom: 7px;
+  }
+
+  .propother {
+      max-width: 160px;
+      padding-bottom: 7px;
+  }
+
+  .val {
+      padding-left: 15px;
+      padding-bottom: 7px;
+  }
+
+  .padding10 { padding: 0.625rem; }
+</style>
+
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
