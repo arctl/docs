@@ -1,11 +1,11 @@
 ---
 layout: last-post
-title: "Последняя новость"
+title: "Последнии новости"
 permalink: /last-post/
 author_profile: false
 ---
 
-{% for post in site.posts limit:4 %}
+{% for post in site.posts limit:3 %}
 {% if post.categories contains 'version' %}
 <div>
     <h2>{{ post.title }}
