@@ -8,7 +8,7 @@ author_profile: false
 {% for post in site.posts limit:3 %}
 {% if post.categories contains 'version' %}
 <div>
-    <span class="title">{{ post.title }}<span class="post-meta">{{ post.date | date: "от %d.%m.%Y" }}</span></span>
+    <h4>{{ post.title }} <span class="post-meta">{{ post.date | date: "от %d.%m.%Y" }}</span></h4>
     {{ post.content }}
 </div>
 {% endif %}
