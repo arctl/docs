@@ -1,6 +1,6 @@
 ---
 title: "Версия: 1.1032.7"
-date: 2024-04-31
+date: 2024-05-31
 toc: true
 categories:
   - version
