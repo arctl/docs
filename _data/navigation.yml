@@ -6,22 +6,14 @@ main:
     url: /
   - title: "По годам"
     url: /year-archive/
-  - title: "По категориям"
-    url: /categories/
   - title: "По тегам"
     url: /tags/
-  - title: "Архив страниц"
-    url: /page-archive/
-  - title: "По коллекциям"
-    url: /collection-archive/
-  - title: "Карта сайта"
-    url: /sitemap/
-  #- title: "Статистика работы в системе"
-  #  url: /stat/
   - title: "О компании"
     url: /about/
   - title: "Условия"
     url: /terms/
+  - title: "Карта сайта"
+    url: /sitemap/    
 
 # Инструкции
 docs:
