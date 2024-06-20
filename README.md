@@ -6,7 +6,7 @@
 
 Не все понятно или что-то не получается?
 Прочитайте [документацию](https://arctl.github.io/arctl-docs/)
-или пишите [нам](https://arctl.ru/contact-us/) и мы поможем Вам разобраться.
+или пишите [нам](https://arctl.ru/order/) и мы поможем Вам разобраться.
 
 При написании документации использованы:
 - [github](https://github.com/)
@@ -18,3 +18,4 @@
 - [gitHub desktop](https://desktop.github.com/)
 - [linter-markdown](https://atom.io/packages/linter-markdown)
 - [linter-remark](https://atom.io/packages/linter-remark)
+- [visual studio code](https://code.visualstudio.com/)
