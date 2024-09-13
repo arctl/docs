@@ -1,7 +1,7 @@
 ---
 title: "Версия: 1.1053.46"
 date: 2024-09-12
-toc: false
+toc: true
 categories:
   - version
 tags:
