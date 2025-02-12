@@ -54,6 +54,8 @@ docs:
         url: /docs/customers/bill_amount_change/
       - title: "Корректировочный счет-фактура"
         url: /docs/customers/inv_correct/
+      - title: "Скидка"
+        url: /docs/customers/discount/
 
   - title: "Поставщики"
     children:
