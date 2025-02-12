@@ -11,40 +11,40 @@ nav_order: 2
 
 Для того, чтобы создать пользователя, переходим в раздел "Администратирование" - "Безопасность" - "Пользователи"
 
-![](../../assets/images/personal1.png)
+![](/assets/images/personal1.png)
 
 Нажимаем на кнопку добавить
 
-![](../../assets/images/personal2.png)
+![](/assets/images/personal2.png)
 
 Появится окно, далее заполняем пустые ячейки выделенные красным цветом
 
-![](../../assets/images/personal3.png)
+![](/assets/images/personal3.png)
 
 **Важно!** После заполнения, изменить "состояние" - на Зарегистрирован, нажимаем применить
 
-![](../../assets/images/personal4.png)
+![](/assets/images/personal4.png)
 
  Внизу разблокируются "Роли", где выбираем вкладку - "LK - Личный кабинет" - "Все"
 
-![](../../assets/images/personal5.png)
+![](/assets/images/personal5.png)
 
 Далее нажимаем на нужную роль
 
-![](../../assets/images/personal6.png)
+![](/assets/images/personal6.png)
 
 Кликаем правой кнопки мышки - добавить
 
-![](../../assets/images/personal7.png)
+![](/assets/images/personal7.png)
 
 Роль из вкладки "Все" исчезнет - озночает, что роль добавилась
 
-![](../../assets/images/personal8.png)
+![](/assets/images/personal8.png)
 
 Переходим в "Назначенные"
 
-![](../../assets/images/personal9.png)
+![](/assets/images/personal9.png)
 
 И в "Назначенные" вы увидите тот контрагент, который вы выбрали из вкладки "Все"
 
-![](../../assets/images/personal10.png)
+![](/assets/images/personal10.png)

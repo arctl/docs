@@ -24,7 +24,7 @@ nav_order: 1
 | ------ | ------ | ------ | ------ |
 
 
-![](../../assets/images/perehod.png)
+![](/assets/images/perehod.png)
 Рисунок. Переходы состояний “Платежного поручения”
 
 

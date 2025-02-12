@@ -9,4 +9,4 @@ nav_order: 6
 # 	Акты/Счета - фактуры
 {: .no_toc }
 
-![](../../assets/images/invoice.png)
+![](/assets/images/invoice.png)

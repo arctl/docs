@@ -9,4 +9,4 @@ nav_order: 3
 # 	Все счета
 {: .no_toc }
 
-![](../../assets/images/all_count.png)
+![](/assets/images/all_count.png)

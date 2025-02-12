@@ -9,6 +9,6 @@ nav_order: 7
 # 	Ожидаемый прием
 {: .no_toc }
 
-![](../../assets/images/reception.png)
+![](/assets/images/reception.png)
 
-![](../../assets/images/reception1.png)
+![](/assets/images/reception1.png)
