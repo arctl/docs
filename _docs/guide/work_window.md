@@ -6,20 +6,20 @@ toc: true
 
 *Рабочая область* системы содержит открытые Вами вкладки.
 
-![](../../images/arctl_work_window.png)
+![](../../assets/images/arctl_work_window.png)
 
 ## Вкладки
 Вкладки содержат таблицы с данными и открываются внутри *рабочей области* системы:
 -   карточки справочников
 -   журналы документов.
 
-![](../../images/arctl_work_window_tab.png)
+![](../../assets/images/arctl_work_window_tab.png)
 
 ### Открытие вкладок
 Новые вкладки открываются в рабочей области системы через выбор
 необходимого пункта в [главном меню](../system/#главное-меню).
 
-![](../../images/arctl_main_window_menu.png)
+![](../../assets/images/arctl_main_window_menu.png)
 
 Один и тот же справочник или журнал документов может быть открыт несколько раз.
 Для каждого случая будет открыта новая вкладка.
@@ -32,39 +32,39 @@ toc: true
 ## Активная вкладка
 Активная вкладка содержит данные и основные инструменты управления и навигации.
 
-![](../../images/arctl_work_window_tab_activ.png)
+![](../../assets/images/arctl_work_window_tab_activ.png)
 
 ### Рабочая таблица
 На вкладке размещается рабочая таблица (грид), содержащая
 данные справочника или документов.
 
-![](../../images/arctl_work_window_grid.png)
+![](../../assets/images/arctl_work_window_grid.png)
 
 ### Панель инструментов
 Панель инструментов управляет рабочей таблицей (гридом).
 Она содержит [основные команды](../grid), доступные для применения к таблице.
 
-![](../../images/arctl_work_window_panel.png)
+![](../../assets/images/arctl_work_window_panel.png)
 
 ### Столбцы
 Заголовки столбцов рабочей таблицы (грида).
 
-![](../../images/arctl_work_window_columns.png)
+![](../../assets/images/arctl_work_window_columns.png)
 
 ### Текущая строка
 Текущая строка рабочей таблицы (грида) отмечается индикатором
-![](../../images/grid_tools/rowindicator.png) и выделяется фоновым цветом.
+![](../../assets/images/grid_tools/rowindicator.png) и выделяется фоновым цветом.
 
-![](../../images/arctl_work_window_current_record.png)
+![](../../assets/images/arctl_work_window_current_record.png)
 
 ### Редактирование в ячейке
 Если ячейка строки содержит зеленый треугольник в левом верхнем углу
-![](../../images/grid_tools/cell_editable.png),
+![](../../assets/images/grid_tools/cell_editable.png),
 то данные могут быть изменены непосредственно в ней.
 
 Для входа в режим редактирования ячейки дважды щелкните на ней.
 
-![](../../images/arctl_work_window_cell_edit.png).
+![](../../assets/images/arctl_work_window_cell_edit.png).
 
 ### Строка навигации
 Под рабочей таблицей расположена строка навигации, содержащая информацию
@@ -76,4 +76,4 @@ toc: true
 
 Каждая страница содержит заданное количество записей (строк) - 20, 30, 40, 50, 100.
 
-![](../../images/arctl_work_window_nav.png)
+![](../../assets/images/arctl_work_window_nav.png)

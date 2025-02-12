@@ -9,4 +9,4 @@ nav_order: 5
 # 	Платежи
 {: .no_toc }
 
-![](../../images/payments.png)
+![](../../assets/images/payments.png)

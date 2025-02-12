@@ -20,5 +20,5 @@ toc: false
 **Важно!** Отфильтровать по дате закрытия возможно,
 если нажать на месяц в таблице `ФинОтчет.Период`
 
-![](../../images/analytics/fin_report_check_supp.png)
+![](../../assets/images/analytics/fin_report_check_supp.png)
 ФинОтчет. Контроль. Расходы

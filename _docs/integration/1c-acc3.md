@@ -111,50 +111,50 @@ toc: true
 
 Откройте *Печатные формы, отчеты и обработки*
 
-![ ](../../images/processing_form.png)
+![ ](../../assets/images/processing_form.png)
 
 Затем откройте *Дополнительные отчеты и обработки*
 
-![ ](../../images/additional_treatments.png)
+![ ](../../assets/images/additional_treatments.png)
 
 В открывшемся окне добавьте обработку
 
-![ ](../../images/additiona_reports.png)
+![ ](../../assets/images/additiona_reports.png)
 
 В окне предупреждения нажмите *Продолжить*
 
-![ ](../../images/warning.png)
+![ ](../../assets/images/warning.png)
 
 Выберите файл обработки
 
-![ ](../../images/file_selection.png)
+![ ](../../assets/images/file_selection.png)
 
 Установите в размещение в разделах.
 Рекомендуемые разделы *Продажи*, *Покупки* и *Банк и касса*
 
-![ ](../../images/processing_placement.png)
+![ ](../../assets/images/processing_placement.png)
 
 Укажите место размещения
 
-![ ](../../images/placement_in_sections.png)
+![ ](../../assets/images/placement_in_sections.png)
 
 Нажмите *Записать и закрыть*
 
-![ ](../../images/external_processing.png)
+![ ](../../assets/images/external_processing.png)
 
 В любом из разделов, где ранее указали размещение,
 необходимо настроить список для отображения.
 Для этого перейдите в раздел *Сервис* и выберите *Дополнительные обработки*.
 
-![ ](../../images/processing_service.png)
+![ ](../../assets/images/processing_service.png)
 
 В открывшемся окне выберите *Настроить список*
 
-![ ](../../images/processing_setting.png)
+![ ](../../assets/images/processing_setting.png)
 
 Выберите обработку **АРК: Транспортная Логистика обмен с сайтом arctl.ru**
 
-![ ](../../images/processing_service_slection.png)
+![ ](../../assets/images/processing_service_slection.png)
 
 На этом настройка отображения завершена.
 Процедура выполняется **один раз** при первом размещении внешней обработки.
@@ -163,25 +163,25 @@ toc: true
 
 Откройте *Печатные формы, отчеты и обработки*
 
-![ ](../../images/processing_form.png)
+![ ](../../assets/images/processing_form.png)
 
 Затем откройте *Дополнительные отчеты и обработки*
 
-![ ](../../images/additional_treatments.png)
+![ ](../../assets/images/additional_treatments.png)
 
 В открывшемся окне выберите обработку "АРК: Транспортная логистика Online - обмен с сайтом api.arctl.ru"
 
 Далее в открывшемся нажмите "Обновить из файла"
 
-![ ](../../images/1c_update_from_file.png)
+![ ](../../assets/images/1c_update_from_file.png)
 
 Выберите файл обработки
 
-![ ](../../images/file_selection.png)
+![ ](../../assets/images/file_selection.png)
 
 Нажмите *Записать и закрыть*
 
-![ ](../../images/external_processing.png)
+![ ](../../assets/images/external_processing.png)
 
 Готово, обработка обновлена.
 
@@ -201,17 +201,17 @@ toc: true
 Откройте раздел *Продажи*, *Покупки* или *Банк и касса*,
 затем перейдите в меню *Дополнительные обработки*.
 
-![ ](../../images/service_file.png)
+![ ](../../assets/images/service_file.png)
 
 Откройте обработку **АРК: Транспортная Логистика обмен с сайтом arctl.ru**
 
-![ ](../../images/my_additional_processing.png)
+![ ](../../assets/images/my_additional_processing.png)
 
 ### Через файл
 
 Откройте меню *Файл*, *Открыть* и выберите путь к загруженной обработке.
 
-![ ](../../images/open_file.png)
+![ ](../../assets/images/open_file.png)
 
 ### Через сохраненный путь
 
@@ -219,7 +219,7 @@ toc: true
 
 Откройте меню *Файл*, затем выберете сохраненный путь до файла обработки.
 
-![ ](../../images/opened_file.png)
+![ ](../../assets/images/opened_file.png)
 
 ## Начало работы с обработкой
 
@@ -229,25 +229,25 @@ toc: true
 
 На вкладке *Настройки* заполните поля *http*, *Пользователь*, *Пароль*
 
-![ ](../../images/start_processing.png)
+![ ](../../assets/images/start_processing.png)
 
 2) Добавьте внешнюю систему в **АРК: Транспортная Логистика**.
 
 Скопируйте имя внешней системы в обработке.
 
-![ ](../../images/name_processing.png)
+![ ](../../assets/images/name_processing.png)
 
 Затем добавьте его в справочник внешних систем в
 **АРК: Транспортная Логистика**.
 
-![ ](../../images/external_system.png)
+![ ](../../assets/images/external_system.png)
 
 3) Проверьте подключение.
 
 Нажмите кнопку *Получить*. Если получен длинный код (уникальный идентификатор),
 то обмен настроен успешно.
 
-![ ](../../images/connection_check.png)
+![ ](../../assets/images/connection_check.png)
 
 4) Далее прежде чем выполнять загрузку / выгрузку необходимо
 связать организацию на соответствующей вкладке
@@ -260,13 +260,13 @@ toc: true
 Выберите организацию, соответствующую нашей компании, и
 нажмите кнопку *Связать*.
 
-![ ](../../images/data_exchange.png)
+![ ](../../assets/images/data_exchange.png)
 
 ## Проверка версии обработки АРК
 
 Версия обработки указана в заголовке обработки.
 
-![ ](../../images/1c_processing_version.png)
+![ ](../../assets/images/1c_processing_version.png)
 
 ## Права доступа для обработки АРК
 
@@ -283,14 +283,14 @@ toc: true
 Профиль должен выглядеть примерно так.
 В названии укажите, например, “Синхронизация данных с АРК”.
 
-![ ](../../images/group_profile.png)
+![ ](../../assets/images/group_profile.png)
 
 2) В новый профиль добавьте пользователя через меню *Пользователи*
 (Администрирование > Настройки пользователей и прав > Пользователи).
 
 Выберите нужного пользователя добавьте в правах созданный профиль.
 
-![ ](../../images/user.png)
+![ ](../../assets/images/user.png)
 
 **Важно!** Если пользователь не администратор, то работа обработки может
 выполняться, если она включена в *Дополнительные отчеты и обработки*
@@ -298,7 +298,7 @@ toc: true
 ## Включение отладки
 
 Включение отладки при выполнении POST запросов.
-![ ](../../images/debug_on.png)
+![ ](../../assets/images/debug_on.png)
 
 
 ## Особенности выгрузки услуг
@@ -324,7 +324,7 @@ toc: true
 
 Откройте форму обработки на вкладке *Документы. Загрузка. Платежные поручения (постав.)*, нажмите *Получить*.
 
-![ ](../../images/1c_buh_arctl_Money_orders_get_upload.png)
+![ ](../../assets/images/1c_buh_arctl_Money_orders_get_upload.png)
 
 При нажатии кнопки *Получить* система автоматически:
 - получает строки платежного календаря:

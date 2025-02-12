@@ -9,6 +9,6 @@ nav_order: 1
 # 	Заявки
 {: .no_toc }
 
-![](../../images/applic.png)
+![](../../assets/images/applic.png)
 
-![](../../images/applic1.png)
+![](../../assets/images/applic1.png)

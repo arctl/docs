@@ -11,20 +11,20 @@ nav_order: 1
 
 В главном меню выбираем Администрирование
 
-![](../../images/pers.png)
+![](../../assets/images/pers.png)
 
 Далее переходим в "Безопасность" - "Личные кабинеты"
 
-![](../../images/perso.png)
+![](../../assets/images/perso.png)
 
 Затем нажимаем на кнопку добавить на панели инструментов
 
-![](../../images/person.png)
+![](../../assets/images/person.png)
 
 После появится окошко для заполнения
 
-![](../../images/persona.png)
+![](../../assets/images/persona.png)
 
 Выбираем "контрагента" и ставите флажок в нужном месте, в результате получите следующее
 
-![](../../images/personal.png)
+![](../../assets/images/personal.png)

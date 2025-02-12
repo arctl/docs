@@ -9,8 +9,8 @@ nav_order: 8
 # 	Депо
 {: .no_toc }
 
-![](../../images/depo.png)
+![](../../assets/images/depo.png)
 
-![](../../images/depo1.png)
+![](../../assets/images/depo1.png)
 
-![](../../images/depo2.png)
+![](../../assets/images/depo2.png)

@@ -14,15 +14,15 @@ nav_order: 7
 
   - Перейти в Организация / Структура организации
 
-  ![](../../images/structure.png)
+  ![](../../assets/images/structure.png)
 
   - Установить курсор в таблице в место, где нужно добавить новый уровень
 
-  ![](../../images/structure1.png)
+  ![](../../assets/images/structure1.png)
 
   - Добавить - *Выбрать вариант новый уровень оргструктуры*
 
-  ![](../../images/structure2.png)
+  ![](../../assets/images/structure2.png)
 
         - Добавить Сотрудника
 
@@ -30,4 +30,4 @@ nav_order: 7
 
         - Добавить Компанию
 
-![](../../images/structure3.png)
+![](../../assets/images/structure3.png)
