@@ -42,6 +42,8 @@ toc: true
  -  В валюте - размер скидки в бонусах (1 бонус = 1 рубль).
 7. Нажать применить ![Инструкция_скидка7](../../images/discount/instructions_discount7.png)
 
+![alt text](../../assets/images/discount/instructions_discount7.png)
+
 ## Дополнительная информация
 
 Скидка не может быть выставлена если:
