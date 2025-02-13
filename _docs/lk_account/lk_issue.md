@@ -9,8 +9,8 @@ nav_order: 9
 # 	Выдача
 {: .no_toc }
 
-![](../../images/issu.png)
+![](/assets/images/issu.png)
 
-![](../../images/issu1.png)
+![](/assets/images/issu1.png)
 
-![](../../images/issu2.png)
+![](/assets/images/issu2.png)

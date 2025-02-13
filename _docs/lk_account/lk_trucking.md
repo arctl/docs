@@ -9,6 +9,6 @@ nav_order: 2
 # 	Автоперевозки
 {: .no_toc }
 
-![](../../images/truck.png)
+![](/assets/images/truck.png)
 
-![](../../images/truck1.png)
+![](/assets/images/truck1.png)
