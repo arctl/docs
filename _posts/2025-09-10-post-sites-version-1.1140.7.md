@@ -1,6 +1,6 @@
 ---
-title: "Версия: 1.1137.5"
-date: 2025-08-27
+title: "Версия: 1.1140.7"
+date: 2025-09-10
 toc: true
 categories:
   - version
