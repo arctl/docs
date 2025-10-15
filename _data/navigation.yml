@@ -116,3 +116,5 @@ docs:
         url: /docs/integration/telegram/
       - title: "Этран"
         url: /docs/integration/etran/
+      - title: "Рассылка"
+        url: /docs/integration/sending/
