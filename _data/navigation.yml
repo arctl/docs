@@ -13,7 +13,7 @@ main:
   - title: "Условия"
     url: /terms/
   - title: "Карта сайта"
-    url: /sitemap/    
+    url: /sitemap/
 
 # Инструкции
 docs:
@@ -76,6 +76,8 @@ docs:
         url: /docs/disp/setting_print_tn/
       - title: "ЭТП 'Грузовые перевозки'"
         url: /docs/disp/ETPGP/
+      - title: "Уведомления"
+        url: /docs/disp/notification/
 
   - title: "Депо"
     children:
@@ -116,5 +118,3 @@ docs:
         url: /docs/integration/telegram/
       - title: "Этран"
         url: /docs/integration/etran/
-      - title: "Рассылка"
-        url: /docs/integration/sending/

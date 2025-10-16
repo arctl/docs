@@ -1,6 +1,6 @@
 ---
 title: "Рассылка"
-permalink: /docs/integration/sending/
+permalink: /docs/disp/notification/
 toc: true
 published: false
 ---
