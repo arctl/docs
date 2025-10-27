@@ -2,7 +2,7 @@
 title: "Рассылка"
 permalink: /docs/disp/notification/
 toc: true
-published: false
+published: true
 ---
 
 АРК: Транспортная логистика Online поддерживает рассылку электронных писем с пользовательских адресов.
