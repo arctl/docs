@@ -102,8 +102,7 @@ toc: true
 
 ## Загрузка обработки АРК
 
-Последняя версия обработки находится по адресу:
-[https://gitlab.arctl.ru/dev/arctl_online_1c_acc3/](https://gitlab.arctl.ru/dev/arctl_online_1c_acc3/-/raw/master/bin/arctl_online_1c_acc3.epf).
+Последняя версия обработки arctl_online_1c_acc3.epf [скачать](https://api.arctl.online/arctl-online-1C-acc3/arctl_online_1c_acc3.epf).
 
 Рекомендуем после загрузки добавить обработку в дополнительные отчеты и обработки.
 
