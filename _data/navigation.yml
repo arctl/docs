@@ -116,5 +116,7 @@ docs:
         url: /docs/integration/1c-acc3/
       - title: "Телеграм"
         url: /docs/integration/telegram/
+      - title: "Почта"
+        url: /docs/integration/mail/
       - title: "Этран"
         url: /docs/integration/etran/
