@@ -46,6 +46,8 @@ docs:
 
   - title: "Клиенты"
     children:
+      - title: "Состояние заявки"
+        url: /docs/customers/order_setting_state/
       - title: "Реестры НДС 0%"
         url: /docs/customers/reestrVAT0/
       - title: "Сохранение заявки в Word"
